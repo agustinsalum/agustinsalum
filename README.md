@@ -1,7 +1,7 @@
 - 👋 Hola, yo soy @agustinsalum
 - 👀 Estoy interesado en aprender el lenguaje Python y sus frameworks
-- 🌱 Actualmente estoy aprendiendo Python Flask
-- 💞️ Estoy buscando colaborar en un proyecto de Django
+- 🌱 Actualmente estoy aprendiendo Flask y Django
+- 💞️ Estoy buscando colaborar en un proyecto con las tecnologias Python, Flask, Django y Vue.js
 - 📫 Me pueden contactar por mi correo agustinsalum92@hotmail.com
 
 <!---
